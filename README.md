@@ -1,2 +1,3 @@
 # FP-Tree-Using-Apache-Spark
-We had implemented The FP Tree Algorithm in Apache Spark
+As part of our final year engineering group project, I led a team in implementing the FP-Growth algorithm in Apache Spark for parallel processing of large datasets. Leveraging Databricks, we connected AWS servers to form a cluster comprising one master node and three worker nodes. Through collaborative efforts, we demonstrated significant runtime reductions compared to single-node approaches in real-world dataset experiments. This project showcased our proficiency in Apache Spark, Databricks, and AWS, highlighting our expertise in big data processing, distributed computing, and cloud infrastructure management.
+
